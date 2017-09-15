@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Name
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Lenovo G40-70
+Implementation-Vendor-Id: com.example
+Build-Jdk: 1.8.0_20
+Implementation-URL: http://projects.spring.io/spring-boot/Name/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
